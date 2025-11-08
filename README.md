@@ -52,7 +52,7 @@ If you click the button in the image, the language will change. Currently, you c
 ## 📦 Downloads
 
 ### 🧩 Installer (Setup)
-[Download KumoNote Setup.exe](https://github.com/penguverse-studios/kumo-note/releases/latest/download/KumoNote-Setup.exe)
+[Download KumoNote Setup.exe](https://github.com/Penguverse/KumoNote/releases/download/Releases/kumo-note-setup.exe)
 
 ### 💼 Portable Version
-[Download KumoNote Portable.zip](https://github.com/penguverse-studios/kumo-note/releases/latest/download/KumoNote-Portable.zip)
+[Download KumoNote Portable.zip](https://github.com/Penguverse/KumoNote/releases/download/Releases/kumo-note-portable.zip)
