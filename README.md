@@ -15,9 +15,3 @@
 - **Fast & Lightweight:** Single-page Electron app optimized for performance.
 
 ---
-
-## Installation
-
-1. Clone the repository (private access):
-   ```bash
-   git clone https://github.com/yourusername/KumoNote.git
