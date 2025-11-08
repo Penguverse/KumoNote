@@ -1,0 +1,12 @@
+LICENSE - PENGUVERSE STUDIOS
+© 2025 Penguverse Studios. All rights reserved.
+
+THIS APPLICATION BELONGS TO PENGUVERSE STUDIOS. THE CODE AND DESIGN ARE OWNED BY PENGUVERSE. ANY MODIFICATION OR REDISTRIBUTION IS STRICTLY PROHIBITED. IN CASE OF THEFT OR COPYING OF THE CODE, LEGAL ACTION WILL BE INITIATED.
+
+Details:
+- This license file covers the application's source code, binary files, design elements, and any derivative works.
+- All copyright and ownership rights of the project belong to Penguverse Studios.
+- Unless explicitly permitted otherwise in this file, copying, distribution, creating derivative works, or partial/complete reuse in online or physical media is prohibited.
+- For permission requests or legal inquiries: contact@penguversestudios.com (or use the valid contact email address here).
+
+DATE: November 8, 2025 (The application is scheduled to be published at 15:30)
