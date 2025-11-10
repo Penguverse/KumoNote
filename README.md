@@ -2,6 +2,10 @@
 
 **KumoNote** is a lightweight, Electron-based note-taking application by **Penguverse Studios**. Designed for speed, simplicity, and reliability, it provides a modern desktop note experience with rich features.
 
+**⚠️ Notice:** 
+**Kumo Note v0.5 is a testing version only and contains many bugs on most systems. Instead of fixing these issues, we are migrating directly to C++.
+The stable C++ version 1.0 is planned to be released by early 2026.**
+
 **⚠️ Bug Report**
 If you encounter any issues, please send a screenshot along with a description of the problem to contact@penguversestudios.com .
 
